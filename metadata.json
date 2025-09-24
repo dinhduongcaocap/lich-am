@@ -1,0 +1,5 @@
+{
+  "name": "Lịch Vạn Niên - Vietnamese Perpetual Calendar",
+  "description": "An elegant web application to view Vietnamese solar and lunar calendars, daily details including auspicious hours and events, and convert between calendar systems, all powered by AI.",
+  "requestFramePermissions": []
+}
